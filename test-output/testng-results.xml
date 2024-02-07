@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-07T15:20:46 IST" name="Default suite" finished-at="2024-02-07T15:21:09 IST" duration-ms="22524">
+    <groups>
+    </groups>
+    <test started-at="2024-02-07T15:20:46 IST" name="Default test" finished-at="2024-02-07T15:21:09 IST" duration-ms="22524">
+      <class name="TESTCASES.lOGIN">
+        <test-method is-config="true" signature="start()[pri:0, instance:TESTCASES.lOGIN@708f5957]" started-at="2024-02-07T15:20:46 IST" name="start" finished-at="2024-02-07T15:20:56 IST" duration-ms="10163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="loginwithinvalid()[pri:0, instance:TESTCASES.lOGIN@708f5957]" started-at="2024-02-07T15:20:56 IST" name="loginwithinvalid" finished-at="2024-02-07T15:20:57 IST" duration-ms="990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithinvalid -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TESTCASES.lOGIN@708f5957]" started-at="2024-02-07T15:20:57 IST" name="teardown" finished-at="2024-02-07T15:20:57 IST" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="start()[pri:0, instance:TESTCASES.lOGIN@708f5957]" started-at="2024-02-07T15:20:57 IST" name="start" finished-at="2024-02-07T15:21:06 IST" duration-ms="9027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="loginwithvalid()[pri:0, instance:TESTCASES.lOGIN@708f5957]" started-at="2024-02-07T15:21:06 IST" name="loginwithvalid" finished-at="2024-02-07T15:21:08 IST" duration-ms="1806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithvalid -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TESTCASES.lOGIN@708f5957]" started-at="2024-02-07T15:21:08 IST" name="teardown" finished-at="2024-02-07T15:21:09 IST" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TESTCASES.lOGIN -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
